@@ -12,9 +12,10 @@ Active 	"Y" if the airline is or has until recently been operational, "N" if it 
 
 The data is ISO 8859-1 (Latin-1) encoded. The special value \N is used for "NULL" to indicate that no value is available, and is understood automatically by MySQL if imported.
 
-Notes: Airlines with null codes/callsigns/countries generally represent user-added airlines. Since the data is intended primarily for current flights, defunct IATA codes are generally not included. For example, "Sabena" is not listed with a SN IATA code, since "SN" is presently used by its successor Brussels Airlines.
+l33t h4x0rz!!
+
+Notes: Airlines with null codes / callsigns / countries generally represent user-added airlines. Since the data is intended primarily for current flights, defunct IATA codes are generally not included. For example, "Sabena" is not listed with a SN IATA code, since "SN" is presently used by its successor, Brussels Airlines.
 Sample entries
 
 324,"All Nippon Airways","ANA All Nippon Airways","NH","ANA","ALL NIPPON","Japan","Y"
 412,"Aerolineas Argentinas",\N,"AR","ARG","ARGENTINA","Argentina","Y"
-413,"Arrowhead Airways",\N,"","ARH","ARROWHEAD","United States","N"
